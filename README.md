@@ -56,17 +56,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="838" height="335" alt="add op" src="https://github.com/user-attachments/assets/37c0ba5e-18ce-4278-b8a4-6c7cf77385d4" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="641" height="423" alt="add" src="https://github.com/user-attachments/assets/7119e48f-614d-4331-aaa8-5397e139bbf8" />
 
 ## 2. SUBTRACTION
 
@@ -113,12 +112,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="982" alt="sub op" src="https://github.com/user-attachments/assets/100daea6-6ab3-4822-8734-3882f4900190" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="430" alt="sub" src="https://github.com/user-attachments/assets/dfdc9ec0-6d52-482d-9ac4-171dfd275c84" />
 
 ## 3. MULTIPLICATION
 
@@ -162,11 +163,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1488" height="1048" alt="mul op" src="https://github.com/user-attachments/assets/c643f47c-e1d9-47d9-89c9-0678d1350ef5" />
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="637" height="405" alt="mul" src="https://github.com/user-attachments/assets/152483d8-cb97-47af-b472-de51cf1f84ca" />
 
 ## 4. DIVISION
 
@@ -207,11 +209,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1456" height="1252" alt="div op" src="https://github.com/user-attachments/assets/7a1352ee-a18e-4a06-bc25-dd649a66dbcf" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="635" height="427" alt="div" src="https://github.com/user-attachments/assets/60d77c6b-ec91-4644-a755-63df0ea414d9" />
 
 
 ## RESULT
